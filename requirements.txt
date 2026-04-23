@@ -1,0 +1,10 @@
+flask
+python-dotenv
+pydantic
+langchain
+langchain-community
+langgraph
+google-generativeai
+requests
+httpx
+tenacity
